@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Game TimeNOW">21a27e58d92312007f44faefb9c9face</application>
+        <filter/>
+        <name>Games</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_gametimenow_game_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-18 20:59:09</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>29a27e58d92312007f44faefb9c9face</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Games</sys_name>
+        <sys_package display_value="GameTimeNow" source="x_gametimenow">b0acead4d92312007f44faefb9c9fae0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GameTimeNow">b0acead4d92312007f44faefb9c9fae0</sys_scope>
+        <sys_update_name>sys_ui_module_29a27e58d92312007f44faefb9c9face</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-18 20:59:09</sys_updated_on>
+        <table>x_gametimenow_game</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
